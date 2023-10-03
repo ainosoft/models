@@ -1,3 +1,6 @@
+# This fork exists to make sure docker container for tf + opencv + object detection remains compliant in future. Do not delete 
+
+
 <div align="center">
   <img src="https://storage.googleapis.com/tf_model_garden/tf_model_garden_logo.png">
 </div>
